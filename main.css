@@ -1,0 +1,117 @@
+body { background:  height: 200px;
+    background-color: white; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom,white,#FFE5B4,white,white,#F9E6FF);
+  }
+  *{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h2 {
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+  }
+  .navbar-tabs{
+    display: flex;
+    justify-content: center;  
+    width: 30%;
+    margin-left: 30%;
+    border-radius: 5em;
+  }
+
+  .icon {
+    margin-left: 100px;
+    margin-right: 20px;
+  }
+
+.nav-container{
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+  .container {
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+  }
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+.flex-container > div {
+    width: 353px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 20px;
+  }
+.quote {
+    margin-left: 20%;
+
+}
+  .flex-container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .flex-container-2 > div {
+    background-color: white;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+  }
+.location {
+    background:#c8d2ff ;
+    opacity: 60%;
+}
+.job_title {
+    background: #91a6ff ;
+    opacity: 60%;
+}
+.age {
+    background: #6060ff;
+    opacity: 60%;
+}
+
+.education_1 {
+    background: #3960ff;
+    opacity: 60%;
+}
+.education_2 {
+    background: #1960ff;
+    opacity: 60%;
+}
+.fraternity {
+    background: #4e4eff;
+    opacity: 60%;
+}.gardening {
+    background: #234eff;
+    opacity: 60%;
+}.travel {
+    background: #004eff;
+    opacity: 60%;
+}
+.family {
+    background: #4949ee;
+    opacity: 60%;
+}
+.music {
+    background: #2149ee;
+    opacity: 60%;
+}
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trivia{
+  display: block;
+  margin-left: 35%;
+  
+}
